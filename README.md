@@ -15,3 +15,4 @@ The `app` directory includes a sample Kubernetes deployment manifest for an Ngin
 ## Getting Started
 To get started, clone the repository and navigate to the respective directories to explore the configurations.
 :)
+https://medium.com/@adisaleem2017/devops-project-gitops-pipeline-setup-9623ad143073
